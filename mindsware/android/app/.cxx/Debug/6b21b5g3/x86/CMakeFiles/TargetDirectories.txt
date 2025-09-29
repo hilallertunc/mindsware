@@ -1,0 +1,2 @@
+/Users/hilalbeyzaertunc/Development/MINDSWARE/mindsware 2/android/app/.cxx/Debug/6b21b5g3/x86/CMakeFiles/edit_cache.dir
+/Users/hilalbeyzaertunc/Development/MINDSWARE/mindsware 2/android/app/.cxx/Debug/6b21b5g3/x86/CMakeFiles/rebuild_cache.dir

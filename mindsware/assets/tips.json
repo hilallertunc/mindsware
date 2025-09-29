@@ -1,0 +1,107 @@
+[
+  {
+    "id": "boredom-is-good",
+    "category": "Akıllı Telefon Kullanımı",
+    "title": "Bazen sıkılmak iyidir.",
+    "summary": "Sıkılmak beynini dinlendirmek ve yaratıcılığını artırmak için faydalıdır.",
+    "detail": "Sıkıldığında beynin aktif kalmak ister ama hiçbir şey olmuyordur. En ucuz çözüm: sosyal medyada gezmek. Bu anlık dopamin beynini mutlu eder ama kısa sürelidir. Uygulamayı kapatınca yine eski haline dönersin. Sıkılmak iyidir; düşüncelerini toparlamanı, kendini dinlemeni ve yeni fikirler üretmeni sağlar.",
+    "tips": [
+      "Günde 15 dakika hiçbir şey yapmadan otur",
+      "Telefonunu başka odada bırak",
+      "Sıkıldığında düşüncelerini bir deftere yaz",
+      "Hayal kurmayı dene",
+      "Kendine küçük bir görev ver (ör. 3 dakikada yeni bir hikâye fikri bul) → Boş zamanı üretkenliğe yönlendirir."
+
+    ],
+    "sources": [
+      "Alter, A. (2017). Irresistible",
+      "https://www.psychologytoday.com/us/blog/brainsnacks/202004/the-benefits-boredom"
+    ],
+    "image": "assets/tips/boredom.jpg"
+  },
+  {
+    "id": "living-without-phone",
+    "category": "Akıllı Saat Kullanımı",
+    "title": "Telefonsuz Yaşam",
+    "summary": "Telefonu yanına almadan dışarı çıkmak odaklanmanı artırır.",
+    "detail": "Dışarı çıkarken veya yürüyüş yaparken telefonunu evde bırakmak, dikkat dağınıklığını azaltır. Apple Watch gibi hücresel bağlantılı cihazlar acil durumlar için yeterlidir. Sosyal medyaya hızlı erişim olmayınca zihnin dinlenir.",
+    "tips": [
+      "Günde 1 saat telefonsuz yürüyüş",
+      "Apple Watch üzerinden sadece acil aramalara izin ver",
+      "Odak modunu etkinleştir"
+    ],
+    "sources": [
+      "Newport, C. (2019). Digital Minimalism",
+      "https://www.health.harvard.edu/mind-and-mood/why-you-should-unplug-more-often"
+    ],
+    "image": "assets/tips/phone.jpg"
+  },
+  {
+    "id": "dopamine-cycle",
+    "category": "Dijital Sağlık",
+    "title": "Dopamin Döngüsünü Anlamak",
+    "summary": "Sosyal medya küçük dopamin ödülleriyle bağımlılık döngüsü yaratır.",
+    "detail": "Beğeni, yorum ve bildirimler beynine küçük dopamin patlamaları gönderir. Bu ödüller öngörülemez olduğundan, beynin sürekli kontrol etme isteği duyar. Bu da bağımlılık yaratır ve dikkat süreni kısaltır.",
+    "tips": [
+      "Bildirimleri sessize al",
+      "Sosyal medya uygulamalarını ana ekrandan kaldır",
+      "Kendine sosyal medya molaları belirle"
+    ],
+    "sources": [
+      "Montag, C. & Walla, P. (2016). Social media addiction and dopamine",
+      "https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00873/full"
+    ],
+    "image": "assets/tips/dopamin.jpg"
+  },
+  {
+    "id": "reply-in-notifications",
+    "category": "Akıllı Telefon Kullanımı",
+    "title": "Bildirimden Cevap Ver",
+    "summary": "Uygulamayı açmadan bildirime cevap vererek dikkat dağılmasını engelle.",
+    "detail": "Bildirime uzun basarak veya aşağı çekerek cevaplamak, uygulamayı açmadan iletişim kurmanı sağlar. Böylece uygulama içindeki dikkat dağıtıcı akışlara maruz kalmadan işini halledersin.",
+    "tips": [
+      "Bildirim cevaplama özelliğini aktif et",
+      "Mesajlara uygulama açmadan cevap ver",
+      "Yanıtladıktan sonra telefonu kenara bırak"
+    ],
+    "sources": [
+      "https://support.apple.com/en-us/HT208078",
+      "https://www.psychologytoday.com/us/blog/rewired-the-psychology-technology/202212/how-notifications-hijack-your-brain"
+    ],
+    "image": "assets/tips/notification.jpg"
+  },
+  {
+    "id": "detox-day",
+    "category": "Detoks ve Denge",
+    "title": "Dijital Detoks Günü",
+    "summary": "Haftada bir gün dijital detoks yapmak zihinsel sağlığını yeniler.",
+    "detail": "Dijital cihazlardan tamamen uzak kalmak, beyninin dinlenmesine ve dikkat kaynaklarının yenilenmesine olanak tanır. Stresi azaltır, uyku kalitesini artırır ve gerçek hayattaki ilişkilerini güçlendirir.",
+    "tips": [
+      "Her hafta 1 gün telefonsuz kal",
+      "O gün doğada vakit geçir",
+      "Yakınlarınla yüz yüze görüş"
+    ],
+    "sources": [
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8619213/",
+      "Twenge, J. (2017). iGen"
+    ],
+    "image": "assets/tips/dijital_detox.jpg"
+  },
+  {
+    "id": "screenfree-mornings",
+    "category": "Detoks ve Denge",
+    "title": "Ekransız Sabahlar",
+    "summary": "Güne telefonsuz başlamak gün içindeki odak süreni uzatır.",
+    "detail": "Güne telefonla başlamak beynini hemen dopaminle yükler, odaklanmayı zorlaştırır. Sabahın ilk saatinde ekrandan uzak kalmak ise zihnini sakinleştirir ve üretkenliği artırır.",
+    "tips": [
+      "Uyanınca ilk 1 saat telefona bakma",
+      "Sabah rutinini planla (kahvaltı, egzersiz, okuma)",
+      "Alarm için klasik saat kullan"
+    ],
+    "sources": [
+      "https://www.sleepfoundation.org/sleep-hygiene/using-technology-before-bed",
+      "Newport, C. (2016). Deep Work"
+    ],
+    "image": "assets/tips/withoutPhone.jpg"
+  }
+]

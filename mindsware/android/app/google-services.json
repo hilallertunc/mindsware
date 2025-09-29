@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "76911004609",
+    "project_id": "mindsware-24f55",
+    "storage_bucket": "mindsware-24f55.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76911004609:android:7c875313cef45e00bfbd40",
+        "android_client_info": {
+          "package_name": "com.example.mindsware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76911004609-rf5lobps2744a86je5ml162v2c2h9pkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcQERb6AlSkxcNZuiI9brQwwq4CXQ-cbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76911004609-rf5lobps2744a86je5ml162v2c2h9pkm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "76911004609-o6a2tf150r2iuimn6csrcoacckfqqpo0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mindsware"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
